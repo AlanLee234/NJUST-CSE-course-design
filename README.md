@@ -66,7 +66,7 @@ Course design of College of Computer Science and Technology, Nanjing University 
 
 ## 编译原理：编译器
 
-
+//todo
 
 ## 媒体计算：手机图像检索系统
 
@@ -74,7 +74,7 @@ Course design of College of Computer Science and Technology, Nanjing University 
 
 ## 软件项目管理：考试管理系统
 
-
+//todo
 
 ## 计算机网络：套接字通信
 
@@ -90,13 +90,13 @@ Course design of College of Computer Science and Technology, Nanjing University 
 
 
 
-## 图像学
+## 图形学
 
 
 
 ## 组原：CPU
 
-
+//todo
 
 ## 操作系统
 
@@ -106,17 +106,13 @@ Course design of College of Computer Science and Technology, Nanjing University 
 
 
 
-## 软件设计模式
-
-
-
 ## 软件体系结构：单词本
 
-
+//todo
 
 ## 电机控制系统
 
-
+//todo
 
 
 
